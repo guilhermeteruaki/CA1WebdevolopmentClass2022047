@@ -28,3 +28,20 @@ li{
     right: 0;
     position: absolute;
 }
+
+#key{
+    width: 10px;
+    height: 10px;
+}
+
+thead{
+    font-weight: bold;
+
+}
+table{
+    border: solid;
+}
+
+td{
+    border: 1px solid;
+}
