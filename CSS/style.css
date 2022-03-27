@@ -3,7 +3,7 @@ nav {
 }
 
 h1 {
-    color:aqua;
+    color:blue;
     font-size: 35px;
     outline-color: black;
     }
@@ -36,12 +36,19 @@ li{
 
 thead{
     font-weight: bold;
+    color: black;
 
 }
 table{
     border: solid;
+    color: black;
 }
 
 td{
     border: 1px solid;
+    color: black;
+}
+
+html{
+    background-color:bisque ;
 }
