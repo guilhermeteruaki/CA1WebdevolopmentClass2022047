@@ -29,7 +29,7 @@ li{
     position: absolute;
 }
 
-#key{
+#key, #key2{
     width: 10px;
     height: 10px;
 }
